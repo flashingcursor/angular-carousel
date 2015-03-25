@@ -1,3 +1,5 @@
+# This is a temporary repository to include an enhancement that is addressed by a pull request presented to the primary repo. (https://github.com/revolunet/angular-carousel/pull/315)  If and when that enhancement has been addressed, this repo will be depricated.
+
 # AngularJS Touch Carousel
 
 An AngularJS carousel implementation optimised for mobile devices.
